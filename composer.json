@@ -1,6 +1,6 @@
 {
-  "name": "rwsite/wp-sync-db",
-  "description": "wp-sync-db",
+  "name": "rwsite/wp-sync-db-plugin",
+  "description": "wp-sync-db-plugin",
   "minimum-stability": "stable",
   "license": "proprietary",
   "type": "wordpress-plugin",
