@@ -1,13 +1,15 @@
 {
   "name": "wp-sync-db/wp-sync-db",
+  "description": "wp-sync-db",
+  "minimum-stability": "stable",
+  "license": "proprietary",
   "type": "wordpress-plugin",
-  "homepage": "https://github.com/wp-sync-db/wp-sync-db",
-  "license": "GPL-2.0",
-  "description": "WP Sync DB eliminates the manual work of migrating a WP database.",
-  "keywords": ["plugin","wordpress","wp-sync-db","db"],
+  "authors": [
+    {
+      "name": "Aleksei Tikhomirov",
+      "email": "alex@rwsite.ru"
+    }
+  ],
   "require": {
-  },
-  "scripts": {
-    "test": "./test.sh"
   }
 }
