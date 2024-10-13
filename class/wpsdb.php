@@ -19,6 +19,8 @@ class WPSDB extends WPSDB_Base {
 	protected $session_salt;
 	protected $primary_keys;
 
+  public ?array $checkbox_options;
+
 	function __construct( $plugin_file_path ) {
 		parent::__construct( $plugin_file_path );
 
